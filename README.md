@@ -29,6 +29,25 @@ Trauma Team International's Platinum Package plan will have a trauma team locate
 
 <br>
 
-  <h1>💲Sponsoring💲</h1>   
-    <div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/python"> <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width="100px;" alt="Python"/> <br /> <sub><b>Python</b></sub> </a> </td> <td align="center"> <a href="https://github.com/arduino"> <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" width="100px;" alt="Arduino"/> <br /> <sub><b>Arduino</b></sub> </a> </td> </tr> </table> </div>
-    <br>
+<h1 align="center" style="color: #0078D4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💲Sponsoring💲</h1>
+
+<div align="center" style="background-color: #F3F3F3; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/python">
+          <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width="100px;" alt="Python" style="border-radius: 50%;">
+          <br />
+          <sub><b style="color: #0078D4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Python</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/arduino">
+          <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" width="100px;" alt="Arduino" style="border-radius: 50%;">
+          <br />
+          <sub><b style="color: #0078D4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Arduino</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
