@@ -27,11 +27,11 @@ Trauma Team International's Platinum Package plan will have a trauma team locate
 
 <br><br><br>
 
-  <h1>📑Code Language</h1> 
-    <p align="center">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutTheWire&layout=compact&icons=true&theme=highcontrast" alt="Top Langs">
-      <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutTheWire&layout=donut&icons=true&theme=highcontrast" alt="Top Langs">
-    </p>
+<h1>📑Code Language</h1> 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutTheWire&layout=compact&hide=html,TeX&theme=highcontrast" alt="Top Langs">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutTheWire&layout=donut&hide=html,TeX&theme=highcontrast" alt="Top Langs">
+</p>
 
 <br>
 
