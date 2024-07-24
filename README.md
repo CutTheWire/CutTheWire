@@ -4,16 +4,7 @@
 
 <br>
 
-![Trauma Team International](https://drive.google.com/uc?export=view&id=168_0f-yj6hXEqrvQIsR4kwGxWl2yBFXM)
 
-<br>
-
-<h2>🚀 TreeNut-KR: Innovating the Future</h2>
-
-[Visit TreeNut-KR](https://github.com/TreeNut-KR)
-
-TreeNut-KR is a pioneering tech startup co-founded by CutTheWire. 
-We're dedicated to pushing the boundaries of technology and creating innovative solutions for tomorrow's challenges.
 
 <br>
 
@@ -33,6 +24,14 @@ We're dedicated to pushing the boundaries of technology and creating innovative 
 </p>
 
 <br>
+
+<h2>🚀 TreeNut: Innovating the Future</h2>
+
+![Visit TreeNut](https://drive.google.com/uc?export=view&id=1qGeiBiwKpuTZPUJ36tgIKpFSnT2ek6u9)
+[Visit TreeNut](https://github.com/TreeNut-KR)
+
+### TreeNut is a pioneering tech startup. 
+We're dedicated to pushing the boundaries of technology and creating innovative solutions for tomorrow's challenges.
 
 <h2>🌟 TreeNut-KR Highlights</h2>
 
