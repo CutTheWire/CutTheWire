@@ -24,6 +24,8 @@ Trauma Team International's Platinum Package plan will have a trauma team locate
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" style="height: 90px;"/></a>
   <a href="https://velog.io/@saeon/posts" target="_blank" style="display: inline-block; margin-right: 10px;">
   <img alt="Velog" src ="https://img.shields.io/badge/Velog-0AC18E.svg?&style=for-the-badge&logoColor=white" style="height: 90px;"/></a>
+  <a href="https://github.com/TreeNut-KR" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" style="height: 90px;"/></a>
 
 <br><br><br>
 
