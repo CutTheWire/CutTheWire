@@ -4,7 +4,23 @@
 
 <br>
 
+## 👋 Hello, World! I'm CutTheWire
 
+### 🐍 Passionate Python Developer
+I'm a new developer studying broad Python. My idea is to harness the power of Python to develop imagination into reality and to broaden the boundaries of what's possible in technology.
+
+#### 🛠 Tech Stack:
+- **Languages:** Python
+- **Frameworks:** FastAPI, OpenCV, PyTorch
+- **Tools:** Git, Docker, AWS
+- **Areas of Interest:** Web Development, Data Science, Machine Learning
+
+#### 💼 Current Focus:
+- Developing scalable web applications
+- Exploring AI and its practical applications
+- Contributing to open-source Python projects
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or tech discussions!
 
 <br>
 
