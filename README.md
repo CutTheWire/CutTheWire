@@ -15,7 +15,7 @@
     <th colspan="2"><h3>🛠 Tech Stack</h3></th>
   </tr>
   <tr>
-    <td><strong>Languages:</strong></td>
+    <td><strong>Language:</strong></td>
     <td>Python</td>
   </tr>
   <tr>
