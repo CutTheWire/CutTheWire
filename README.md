@@ -79,7 +79,7 @@
 ### TreeNut is a pioneering tech startup. 
 We're dedicated to pushing the boundaries of technology and creating solutions for tomorrow's challenges.
 
-<h2>🌟 TreeNut-KR Highlights</h2>
+<h2>🌟 TreeNut Highlights</h2>
 
 <h3>🔬 Cutting-edge Research & Development</h4>
 <h3>💡 Innovative Tech Solutions</h4>
