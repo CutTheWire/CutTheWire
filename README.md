@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><strong>Tools:</strong></td>
-    <td>Git, Docker, AWS</td>
+    <td>Git, Docker, WSL, AWS</td>
   </tr>
   <tr>
     <td><strong>Areas of Interest:</strong></td>
