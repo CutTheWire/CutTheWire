@@ -71,8 +71,10 @@
 
 <h2>🚀 TreeNut: Innovating the Future</h2>
 
-![Visit TreeNut](https://drive.google.com/uc?export=view&id=1qGeiBiwKpuTZPUJ36tgIKpFSnT2ek6u9)
-[Visit TreeNut](https://github.com/TreeNut-KR)
+<a href="https://github.com/TreeNut-KR">
+  <img src="https://drive.google.com/uc?export=view&id=1qGeiBiwKpuTZPUJ36tgIKpFSnT2ek6u9" alt="Visit TreeNut">
+</a>
+
 
 ### TreeNut is a pioneering tech startup. 
 We're dedicated to pushing the boundaries of technology and creating innovative solutions for tomorrow's challenges.
