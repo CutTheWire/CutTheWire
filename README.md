@@ -69,7 +69,7 @@
 
 <br>
 
-<h2>🚀 TreeNut: Innovating the Future</h2>
+<h1>🚀 TreeNut: Innovating the Future</h2>
 
 <a href="https://github.com/TreeNut-KR">
   <img src="https://drive.google.com/uc?export=view&id=1qGeiBiwKpuTZPUJ36tgIKpFSnT2ek6u9" alt="Visit TreeNut">
@@ -81,10 +81,10 @@ We're dedicated to pushing the boundaries of technology and creating solutions f
 
 <h2>🌟 TreeNut-KR Highlights</h2>
 
-<h4>🔬 Cutting-edge Research & Development</h4>
-<h4>💡 Innovative Tech Solutions</h4>
-<h4>🤝 Collaborative Work Environment</h4>
-<h4>🌱 Sustainable Technology Focus</h4>
+<h3>🔬 Cutting-edge Research & Development</h4>
+<h3>💡 Innovative Tech Solutions</h4>
+<h3>🤝 Collaborative Work Environment</h4>
+<h3>🌱 Sustainable Technology Focus</h4>
 
 <br>
 
