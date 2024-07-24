@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <th colspan="2"><h3>🛠 Tech Stack</h3></th>
+    <th colspan="2"><h2>🛠 Tech Stack</h3></th>
   </tr>
   <tr>
     <td><strong>Language:</strong></td>
@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-    <th><h3>💼 Current Focus</h3></th>
+    <th><h2>💼 Current Focus</h3></th>
   </tr>
   <tr>
     <td>Developing scalable web applications</td>
