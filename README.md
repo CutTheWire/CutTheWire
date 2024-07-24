@@ -6,22 +6,49 @@
 
 <h2>👋 Hello, World! I'm CutTheWire</h2>
 
-<h3>🐍 Passionate Python Developer</h3>
-<p>I'm a new developer studying broad Python. My idea is to harness the power of Python to develop imagination into reality and to broaden the boundaries of what's possible in technology.</p>
 
-<h3>🛠 Tech Stack:</h3>
-<h4>Languages: Python</h4>
-<h4>Frameworks: FastAPI, OpenCV, PyTorch</h4>
-<h4>Tools: Git, Docker, AWS</h4>
-<h4>Areas of Interest: Web Development, Data Science, Machine Learning</h4>
+<h3>🐍 Passionate Python Newcomer Developer</h3>
+<p>I'm a Newcomer developer studying broad Python. My idea is to harness the power of Python to develop imagination into reality and to broaden the boundaries of what's possible in technology.</p>
 
-<h3>💼 Current Focus:</h3>
-<h4>Developing scalable web applications</h4>
-<h4>Exploring AI and its practical applications</h4>
-<h4>Contributing to open-source Python projects</h4>
+<table>
+  <tr>
+    <th colspan="2"><h3>🛠 Tech Stack</h3></th>
+  </tr>
+  <tr>
+    <td><strong>Languages:</strong></td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks:</strong></td>
+    <td>FastAPI, OpenCV, PyTorch</td>
+  </tr>
+  <tr>
+    <td><strong>Tools:</strong></td>
+    <td>Git, Docker, AWS</td>
+  </tr>
+  <tr>
+    <td><strong>Areas of Interest:</strong></td>
+    <td>Web Development, Data Science, Machine Learning</td>
+  </tr>
+</table>
 
-<p>Feel free to explore my repositories and don't hesitate to reach out for collaborations or tech discussions!</p>
+<br>
 
+<table>
+  <tr>
+    <th><h3>💼 Current Focus</h3></th>
+  </tr>
+  <tr>
+    <td>Developing scalable web applications</td>
+  </tr>
+  <tr>
+    <td>Exploring AI and its practical applications</td>
+  </tr>
+  <tr>
+    <td>Contributing to open-source Python projects</td>
+  </tr>
+</table>
+<h3>📨 Feel free to explore my repositories and don't hesitate to reach out for collaborations or tech discussions!</h3>
 <br>
 
   <a href="https://www.youtube.com/@CutTheWire777" target="_blank" style="display: inline-block; margin-right: 10px;">
