@@ -4,23 +4,23 @@
 
 <br>
 
-## 👋 Hello, World! I'm CutTheWire
+<h2>👋 Hello, World! I'm CutTheWire</h2>
 
-### 🐍 Passionate Python Developer
-I'm a new developer studying broad Python. My idea is to harness the power of Python to develop imagination into reality and to broaden the boundaries of what's possible in technology.
+<h3>🐍 Passionate Python Developer</h3>
+<p>I'm a new developer studying broad Python. My idea is to harness the power of Python to develop imagination into reality and to broaden the boundaries of what's possible in technology.</p>
 
-#### 🛠 Tech Stack:
-- **Languages:** Python
-- **Frameworks:** FastAPI, OpenCV, PyTorch
-- **Tools:** Git, Docker, AWS
-- **Areas of Interest:** Web Development, Data Science, Machine Learning
+<h3>🛠 Tech Stack:</h3>
+<h4>Languages: Python</h4>
+<h4>Frameworks: FastAPI, OpenCV, PyTorch</h4>
+<h4>Tools: Git, Docker, AWS</h4>
+<h4>Areas of Interest: Web Development, Data Science, Machine Learning</h4>
 
-#### 💼 Current Focus:
-- Developing scalable web applications
-- Exploring AI and its practical applications
-- Contributing to open-source Python projects
+<h3>💼 Current Focus:</h3>
+<h4>Developing scalable web applications</h4>
+<h4>Exploring AI and its practical applications</h4>
+<h4>Contributing to open-source Python projects</h4>
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or tech discussions!
+<p>Feel free to explore my repositories and don't hesitate to reach out for collaborations or tech discussions!</p>
 
 <br>
 
@@ -51,10 +51,10 @@ We're dedicated to pushing the boundaries of technology and creating innovative 
 
 <h2>🌟 TreeNut-KR Highlights</h2>
 
-- 🔬 Cutting-edge Research & Development
-- 💡 Innovative Tech Solutions
-- 🤝 Collaborative Work Environment
-- 🌱 Sustainable Technology Focus
+<h4>🔬 Cutting-edge Research & Development</h4>
+<h4>💡 Innovative Tech Solutions</h4>
+<h4>🤝 Collaborative Work Environment</h4>
+<h4>🌱 Sustainable Technology Focus</h4>
 
 <br>
 
