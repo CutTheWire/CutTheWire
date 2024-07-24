@@ -1,22 +1,19 @@
 <div align="center" style="width: 100%;">
 
-
   <h1>⚡CutTheWire⚡</h1>   
 
 <br>
 
-![Trauma Team International](https://drive.google.com/uc?export=view&id=16sYP2IXoK9msmoZDik3pg7tU1qoouRUX)
+![Trauma Team International](https://drive.google.com/uc?export=view&id=168_0f-yj6hXEqrvQIsR4kwGxWl2yBFXM)
 
 <br>
 
- 
-<h1>STOP: c000021a {Fatal System Error}</h1>
+<h2>🚀 TreeNut-KR: Innovating the Future</h2>
 
-The Cyberdeck SubSystem system process terminated unexpectedly with a status of 0xc0000005.
+[Visit TreeNut-KR](https://github.com/TreeNut-KR)
 
-The Operating System has been shut down.
-
-Trauma Team International's Platinum Package plan will have a trauma team located in that location within 3 minutes.
+TreeNut-KR is a pioneering tech startup co-founded by CutTheWire. 
+We're dedicated to pushing the boundaries of technology and creating innovative solutions for tomorrow's challenges.
 
 <br>
 
@@ -29,7 +26,7 @@ Trauma Team International's Platinum Package plan will have a trauma team locate
 
 <br><br><br>
 
-<h1>📑Code Language</h1> 
+<h2>📊 Code Languages</h2> 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutTheWire&layout=compact&hide=html,TeX,C,CSS&theme=highcontrast" alt="Top Langs">
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutTheWire&layout=donut&hide=html,TeX,C,CSS&theme=highcontrast" alt="Top Langs">
@@ -37,25 +34,19 @@ Trauma Team International's Platinum Package plan will have a trauma team locate
 
 <br>
 
-<h1 align="center" style="color: #0078D4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💲Sponsoring💲</h1>
+<h2>🌟 TreeNut-KR Highlights</h2>
 
-<div align="center" style="background-color: #F3F3F3; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/python">
-          <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width="100px;" alt="Python" style="border-radius: 50%;">
-          <br />
-          <sub><b style="color: #0078D4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Python</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/arduino">
-          <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" width="100px;" alt="Arduino" style="border-radius: 50%;">
-          <br />
-          <sub><b style="color: #0078D4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Arduino</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+- 🔬 Cutting-edge Research & Development
+- 💡 Innovative Tech Solutions
+- 🤝 Collaborative Work Environment
+- 🌱 Sustainable Technology Focus
+
+<br>
+
+<h2>🔗 Connect with Us</h2>
+
+Feel free to reach out for collaborations or just a friendly chat about tech!
+
+[🌐 Website](#) | [📧 Email](#)
+
 </div>
