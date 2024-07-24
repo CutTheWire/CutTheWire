@@ -4,7 +4,7 @@
 
 <br>
 
-<h2>👋 Hello, World! I'm CutTheWire</h2>
+<h2>👋 Hello, Senior Developers
 
 
 <h3>🐍 Passionate Python Newcomer Developer</h3>
@@ -77,7 +77,7 @@
 
 
 ### TreeNut is a pioneering tech startup. 
-We're dedicated to pushing the boundaries of technology and creating innovative solutions for tomorrow's challenges.
+We're dedicated to pushing the boundaries of technology and creating solutions for tomorrow's challenges.
 
 <h2>🌟 TreeNut-KR Highlights</h2>
 
