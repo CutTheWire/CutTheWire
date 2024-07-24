@@ -48,7 +48,8 @@
     <td>Contributing to open-source Python projects</td>
   </tr>
 </table>
-<h3>📨 Feel free to explore my repositories and don't hesitate to reach out for collaborations or tech discussions!</h3>
+
+### Feel free to explore my repository and email me for a collaboration or technical discussion! 📨 [Send mail](https://mail.google.com/mail/?view=cm&fs=1&to=gtjwyaaz@anonaddy.me) 
 <br>
 
   <a href="https://www.youtube.com/@CutTheWire777" target="_blank" style="display: inline-block; margin-right: 10px;">
