@@ -1,4 +1,4 @@
-<div align="center" style="width: 100%;">
+<img width="2428" height="1250" alt="image" src="https://github.com/user-attachments/assets/c0463ce6-0dbe-428b-9ae5-daf28815b1e5" /><div align="center" style="width: 100%;">
 
   <h1>⚡CutTheWire⚡</h1>   
 
@@ -73,8 +73,13 @@
 
 [![alt text](https://lh3.googleusercontent.com/d/1H62LOQ8yeql3HQ5OZT4fIzdydTdMhbiw)](https://treenut.ddns.net)
 
-> TreeNut은 대화형 인공지능의 새로운 가능성을 탐구하는 **AI 기반 웹 챗봇 플랫폼**입니다.  
+> TreeNut은 대화형 인공지능으로 페르소나 기반의 케릭터쳇 서비스 입니다.  
 > 경량화된 언어 모델과 직관적인 UI를 통해 누구나 쉽게 AI와 소통할 수 있는 환경을 제공합니다.
+
+# 🐕 Dogi: Dog Medical Consultation AI
+[<img width="2428" height="1250" alt="image" src="https://github.com/user-attachments/assets/0305353a-9fa1-4c49-aa2b-1b99ac383144" />](http://122.45.4.163/)
+
+> Dogi는 대화형 인공지능으로 AI HUB의 반려동물 의료 데이터셋을 활용한 상담 서비스 입니다.
 
 ---
 
