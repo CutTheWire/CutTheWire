@@ -1,5 +1,3 @@
-<img width="2428" height="1250" alt="image" src="https://github.com/user-attachments/assets/c0463ce6-0dbe-428b-9ae5-daf28815b1e5" /><div align="center" style="width: 100%;">
-
   <h1>⚡CutTheWire⚡</h1>   
 
 <br>
