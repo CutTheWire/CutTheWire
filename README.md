@@ -82,7 +82,8 @@
 ---
 
 ## 🌐 접속하기
-👉 [https://treenut.ddns.net](https://treenut.ddns.net)
+👉 TreeNut : [https://treenut.ddns.net](https://treenut.ddns.net)</br>
+👉 Dogi : [http://122.45.4.163](http://122.45.4.163)
 
 ---
 
@@ -104,7 +105,7 @@
 ---
 
 ## 📬 문의 및 소통
-- 🌐 웹사이트: [https://treenut.ddns.net](https://treenut.ddns.net)  
+- 🌐 웹사이트: [https://cutwire.myddns.me/](https://cutwire.myddns.me/)  
 - 📧 이메일: [gtjwyaaz@anonaddy.me](mailto:gtjwyaaz@anonaddy.me)  
 - 💻 GitHub: [TreeNut-KR](https://github.com/TreeNut-KR)
 
