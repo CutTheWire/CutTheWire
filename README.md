@@ -2,9 +2,6 @@
 
 <br>
 
-<h2>👋 Hello, Senior Developers
-
-
 <h3>🐍 Passionate Python Newcomer Developer</h3>
 <p>I'm a Newcomer developer studying broad Python. My idea is to harness the power of Python to develop imagination into reality and to broaden the boundaries of what's possible in technology.</p>
 
