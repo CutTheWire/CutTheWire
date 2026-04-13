@@ -70,12 +70,6 @@
 
 ---
 
-## 🌐 접속하기
-👉 TreeNut : [https://treenut.ddns.net](https://treenut.ddns.net)</br>
-👉 Dogi : [http://122.45.4.163](http://122.45.4.163)
-
----
-
 ## 🧩 주요 특징
 
 - 🧠 **실시간 AI 채팅**  
