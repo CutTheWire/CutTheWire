@@ -56,14 +56,6 @@
 
 <br><br><br>
 
-<h2>📊 Code Languages</h2> 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutTheWire&layout=compact&hide=html,TeX,C,CSS&theme=highcontrast" alt="Top Langs">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutTheWire&layout=donut&hide=html,TeX,C,CSS&theme=highcontrast" alt="Top Langs">
-</p>
-
-<br>
-
 # 🚀 TreeNut: Conversational AI
 
 [![alt text](https://lh3.googleusercontent.com/d/1H62LOQ8yeql3HQ5OZT4fIzdydTdMhbiw)](https://treenut.ddns.net)
